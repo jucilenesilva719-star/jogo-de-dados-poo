@@ -26,7 +26,8 @@
 ---
 
 ## Diagrama de Casos de Uso
-![Diagrama de Casos de Uso]()
+![Diagrama de Casos de Uso](https://github.com/user-attachments/assets/ffc29e55-fedb-406e-82a6-9bba4e5d4ad4)
+
 
 ---
 
@@ -45,4 +46,4 @@
 ---
 
 ## Referências
-- [Documentação oficial do GitHub](https://docs.github.com/pt)
+- [Documentação oficial do GitHub](https://github.com/jucilenesilva719-star/jogo-de-dados-poo.git)
