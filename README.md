@@ -1,31 +1,42 @@
 # jogo-de-dados-poo
-# Jogo de Dados
+# 🎲 **Jogo de Dados**
 
-## Levantamento de Requisitos
-### Requisitos Funcionais
-- O sistema deve permitir que o jogador inicie o jogo.
-- O sistema deve permitir que o jogador realize apostas.
-- O sistema deve validar as apostas realizadas.
-- O sistema deve permitir que o jogador lance os dados.
-- O sistema deve calcular o resultado da aposta.
-- O sistema deve atualizar o saldo do jogador.
-- O sistema deve exibir o resultado da rodada.
-
-### Requisitos Não Funcionais
-- Usabilidade: interface simples e intuitiva.
-- Aleatoriedade: resultados dos dados devem ser aleatórios.
-- Desempenho: cálculos e lançamentos devem ocorrer imediatamente.
-- Segurança: impedir que o saldo fique negativo ou ocorra erro de cálculo.
+## 👩‍💻 Desenvolvido por  
+**Jucilene da silva - IF24**
 
 ---
 
-## Diagrama de Classes
+## 📋 **Levantamento de Requisitos**
+
+### ✅ Requisitos Funcionais
+- 🎮 **RF01 – Iniciar jogo:** o jogador começa uma nova partida de apostas com dois dados.  
+- 💰 **RF02 – Realizar aposta:** escolhe um número entre 2 e 12 e define o valor a apostar.  
+- 🛡️ **RF03 – Validar aposta:** sistema verifica se o valor é válido e se o jogador tem saldo suficiente.  
+- 🎲 **RF04 – Lançar os dados:** valores aleatórios entre 1 e 6 para cada dado.  
+- 🔄 **RF05 – Limite de jogadas:** máximo de duas tentativas por aposta.  
+- 📊 **RF06 – Calcular resultado:** soma os valores dos dois dados.  
+- 🏆 **RF07 – Verificar acerto:** compara aposta com resultado.  
+- 💵 **RF08 – Atualizar saldo:** credita ou debita conforme vitória ou derrota.  
+- 🖥️ **RF09 – Exibir resultado da rodada.**  
+- 🔁 **RF10 – Nova aposta ou encerrar jogo.**  
+
+### ⚙️ Requisitos Não Funcionais
+- 🖱️ **RNF01 – Usabilidade**  
+- 🎲 **RNF02 – Aleatoriedade realista**  
+- ⚡ **RNF03 – Desempenho**  
+- 🔒 **RNF04 – Segurança**  
+- ✅ **RNF05 – Confiabilidade**  
+- 🌐 **RNF06 – Portabilidade**  
+- ♿ **RNF07 – Acessibilidade**  
+
+---
+
+## 🧩 **Diagrama de Classes**
 ![Diagrama de Classes](https://github.com/user-attachments/assets/aca8498d-e0bf-4cb5-baf7-7f3eaf81d23a)
 
-
 ---
 
-## Diagrama de Casos de Uso
+## 🎭 **Diagrama de Casos de Uso**
 ![Diagrama de Casos de Uso](https://github.com/user-attachments/assets/ffc29e55-fedb-406e-82a6-9bba4e5d4ad4)
 
 
@@ -45,5 +56,5 @@
 
 ---
 
-## Referências
-- [Documentação oficial do GitHub](https://github.com/jucilenesilva719-star/jogo-de-dados-poo.git)
+ ## 🔗 **Repositório no GitHub**
+[👉 Acessar o repositório](https://github.com/jucilenesilva719-star/jogo-de-dados-poo.git)
