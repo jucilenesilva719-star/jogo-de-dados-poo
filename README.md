@@ -43,7 +43,7 @@ Jucilene da silva IF24
 ---
 
 ## 🔗 Repositório no GitHub
-[Link para o repositório](https://github.com/Alycia-Vitoria/jogo-de-dados-poo)
+[Link para o repositório](https://github.com/jucilenesilva719-star/jogo-de-dados-poo.git)
 
 # 🗃️ Banco de Dados - Jogo de Dados
 
